@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 300px;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    margin: 1rem;
+    padding: 1rem;
+    gap: 0.5rem;
+    background-color: lightgray;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+h1{
+   color: white;
+}
